@@ -4,7 +4,7 @@
 ## URL:
 https://benwade91.github.io/horiseon-refactor/
 
-
+## Summary: 
 The project is based around helping the marketing agency Horiseon refactor their homepage to be 
 more accessible for screen readers using alt tags for images and semantic html elements. In addition 
 to adding accessibility features, I cleaned up the CSS file by consolidating redundant CSS commands and 
