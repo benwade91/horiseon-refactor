@@ -8,6 +8,8 @@ more accessible for screen readers using alt tags for images and semantic html e
 to adding accessibility features, I cleaned up the CSS file by consolidating redundant CSS commands and 
 reorganizing the file to better follow the html organization.
 
-##original code can be found at:
+##Original code can be found at:
 https://github.com/coding-boot-camp/urban-octo-telegram/tree/master/Develop
 
+##Preview of Page
+![alt text](./assets/images/screenshot.png?raw=true)
